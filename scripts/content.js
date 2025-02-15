@@ -1,1 +1,3 @@
-alert('hi');
+
+// for test propose only
+//alert('hi');
