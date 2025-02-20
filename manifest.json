@@ -5,8 +5,7 @@
   "permissions": ["activeTab", "scripting"],
   "manifest_version": 3,
   "background": {
-    "service_worker": "service-worker.js",
-    "type": "module"
+    "service_worker": "service-worker.js"
   },
   "icons": {
     "16": "images/icon16.png",
