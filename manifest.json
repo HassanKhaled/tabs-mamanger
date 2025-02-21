@@ -1,6 +1,6 @@
 {
-  "name": "Temp Extensions",
-  "description": "Template Chrome Extension",
+  "name": "Tabs Manager",
+  "description": " Chrome Extension for tab managerment and practice purpsoes ",
   "version": "1.0",
   "permissions": ["activeTab", "scripting"],
   "manifest_version": 3,
