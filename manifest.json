@@ -2,7 +2,7 @@
   "name": "Tabs Manager",
   "description": " Chrome Extension for tab managerment and practice purpsoes ",
   "version": "1.0",
-  "permissions": ["activeTab", "scripting", "tabs"],
+  "permissions": ["activeTab", "scripting", "tabGroups"],
   "manifest_version": 3,
   "background": {
     "service_worker": "service-worker.js"
